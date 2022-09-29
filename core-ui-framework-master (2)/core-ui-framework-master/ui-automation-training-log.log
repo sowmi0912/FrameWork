@@ -1,0 +1,967 @@
+2020-10-28 10:53:46 INFO  TestBase:26 - Initiate Browser
+2020-10-28 10:53:48 INFO  TestBase:42 - Test name: logintest
+2020-10-28 10:53:48 INFO  TestBase:58 - Executed test case name:logintest Execution Results : [TestResult name={null} status=CREATED method=Login.logintest()[pri:0, instance:com.login.test.Login@27a8c74e] output={null}]
+2020-10-28 10:53:48 INFO  TestBase:50 - Closing Browser
+2020-10-28 10:54:21 INFO  TestBase:26 - Initiate Browser
+2020-10-28 10:54:22 INFO  TestBase:42 - Test name: logintest
+2020-10-28 10:54:22 INFO  TestBase:58 - Executed test case name:logintest Execution Results : [TestResult name={null} status=CREATED method=Login.logintest()[pri:0, instance:com.login.test.Login@27a8c74e] output={null}]
+2020-10-28 10:54:22 INFO  TestBase:50 - Closing Browser
+2020-10-28 10:54:58 INFO  TestBase:26 - Initiate Browser
+2020-10-28 10:54:59 INFO  TestBase:42 - Test name: logintest
+2020-10-28 10:54:59 INFO  TestBase:58 - Executed test case name:logintest Execution Results : [TestResult name={null} status=CREATED method=Login.logintest()[pri:0, instance:com.login.test.Login@59e5ddf] output={null}]
+2020-10-28 10:54:59 INFO  TestBase:50 - Closing Browser
+2020-10-28 10:55:34 INFO  TestBase:26 - Initiate Browser
+2020-10-28 10:55:42 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-28 10:55:42 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-28 10:55:42 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-28 10:55:42 INFO  TestBase:32 - Browser Initiated
+2020-10-28 10:55:42 INFO  TestBase:42 - Test name: logintest
+2020-10-28 10:55:47 INFO  TestBase:58 - Executed test case name:logintest Execution Results : [TestResult name=logintest status=SUCCESS method=Login.logintest()[pri:0, instance:com.login.test.Login@59e5ddf] output={null}]
+2020-10-28 10:55:47 INFO  TestBase:50 - Closing Browser
+2020-10-28 10:55:48 INFO  TestBase:52 - Browser Closed
+2020-10-28 12:52:01 INFO  TestBase:26 - Initiate Browser
+2020-10-28 12:52:07 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-28 12:52:07 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-28 12:52:07 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-28 12:52:07 INFO  TestBase:32 - Browser Initiated
+2020-10-28 12:52:07 INFO  TestBase:42 - Test name: logintest
+2020-10-28 12:52:11 INFO  TestBase:58 - Executed test case name:logintest Execution Results : [TestResult name=logintest status=SUCCESS method=Login.logintest()[pri:0, instance:com.login.test.Login@27a8c74e] output={null}]
+2020-10-28 12:52:11 INFO  TestBase:50 - Closing Browser
+2020-10-28 12:52:13 INFO  TestBase:52 - Browser Closed
+2020-10-28 13:15:18 INFO  TestBase:26 - Initiate Browser
+2020-10-28 13:15:25 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-28 13:15:25 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-28 13:15:25 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-28 13:15:25 INFO  TestBase:32 - Browser Initiated
+2020-10-28 13:15:25 INFO  TestBase:42 - Test name: logintest
+2020-10-28 13:15:25 INFO  TestBase:58 - Executed test case name:logintest Execution Results : [TestResult name=logintest status=FAILURE method=Login.logintest()[pri:0, instance:com.login.test.Login@59e5ddf] output={null}]
+2020-10-28 13:15:25 INFO  TestBase:50 - Closing Browser
+2020-10-28 13:58:49 INFO  TestBase:27 - Initiate Browser
+2020-10-28 13:58:56 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-28 13:58:56 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-28 13:58:56 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-28 13:58:56 INFO  TestBase:33 - Browser Initiated
+2020-10-28 13:58:56 INFO  TestBase:43 - Test name: logintest
+2020-10-28 13:58:56 INFO  TestBase:51 - Closing Browser
+2020-10-28 13:58:57 INFO  TestBase:53 - Browser Closed
+2020-10-28 13:58:57 INFO  TestBase:43 - Test name: logintest2
+2020-10-28 13:58:57 INFO  TestBase:51 - Closing Browser
+2020-10-28 13:58:58 INFO  TestBase:53 - Browser Closed
+2020-10-28 13:58:58 INFO  TestBase:43 - Test name: logintest3
+2020-10-28 13:58:58 INFO  TestBase:51 - Closing Browser
+2020-10-28 13:58:59 INFO  TestBase:53 - Browser Closed
+2020-10-28 13:58:59 INFO  TestBase:43 - Test name: logintest4
+2020-10-28 13:58:59 INFO  TestBase:51 - Closing Browser
+2020-10-28 13:59:00 INFO  TestBase:53 - Browser Closed
+2020-10-28 14:00:03 INFO  TestBase:24 - Initiate Browser
+2020-10-28 14:00:10 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-28 14:00:10 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-28 14:00:10 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-28 14:00:10 INFO  TestBase:30 - Browser Initiated
+2020-10-28 14:00:15 INFO  TestBase:48 - Closing Browser
+2020-10-28 14:00:16 INFO  TestBase:50 - Browser Closed
+2020-10-30 20:59:45 INFO  TestBase:27 - Initiate Browser
+2020-10-30 20:59:55 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 20:59:55 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 20:59:55 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 20:59:55 INFO  TestBase:33 - Browser Initiated
+2020-10-30 20:59:55 INFO  TestBase:43 - Test name: logintest
+2020-10-30 21:00:00 INFO  TestBase:59 - Executed test case name:logintest Execution Results : [TestResult name=logintest status=SUCCESS method=Login.logintest()[pri:0, instance:com.login.test.Login@1b68ddbd] output={null}]
+2020-10-30 21:00:00 INFO  TestBase:51 - Closing Browser
+2020-10-30 21:00:01 INFO  TestBase:53 - Browser Closed
+2020-10-30 21:00:01 INFO  TestBase:43 - Test name: logintest2
+2020-10-30 21:00:01 INFO  TestBase:59 - Executed test case name:logintest2 Execution Results : [TestResult name=logintest2 status=FAILURE method=Login.logintest2()[pri:0, instance:com.login.test.Login@1b68ddbd] output={null}]
+2020-10-30 21:00:01 INFO  TestBase:51 - Closing Browser
+2020-10-30 21:00:02 INFO  TestBase:53 - Browser Closed
+2020-10-30 21:00:02 INFO  TestBase:43 - Test name: logintest3
+2020-10-30 21:00:02 INFO  TestBase:59 - Executed test case name:logintest3 Execution Results : [TestResult name=logintest3 status=FAILURE method=Login.logintest3()[pri:0, instance:com.login.test.Login@1b68ddbd] output={null}]
+2020-10-30 21:00:02 INFO  TestBase:51 - Closing Browser
+2020-10-30 21:00:03 INFO  TestBase:53 - Browser Closed
+2020-10-30 21:00:03 INFO  TestBase:43 - Test name: logintest4
+2020-10-30 21:00:03 INFO  TestBase:59 - Executed test case name:logintest4 Execution Results : [TestResult name=logintest4 status=FAILURE method=Login.logintest4()[pri:0, instance:com.login.test.Login@1b68ddbd] output={null}]
+2020-10-30 21:00:03 INFO  TestBase:51 - Closing Browser
+2020-10-30 21:00:04 INFO  TestBase:53 - Browser Closed
+2020-10-30 21:00:23 INFO  TestBase:26 - Initiate Browser
+2020-10-30 21:00:30 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 21:00:30 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 21:00:30 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 21:00:30 INFO  TestBase:32 - Browser Initiated
+2020-10-30 21:00:30 INFO  TestBase:42 - Test name: logintest
+2020-10-30 21:00:35 INFO  TestBase:58 - Executed test case name:logintest Execution Results : [TestResult name=logintest status=SUCCESS method=Login.logintest()[pri:0, instance:com.login.test.Login@2d8f65a4] output={null}]
+2020-10-30 21:00:35 INFO  TestBase:50 - Closing Browser
+2020-10-30 21:00:36 INFO  TestBase:52 - Browser Closed
+2020-10-30 21:00:36 INFO  TestBase:26 - Initiate Browser
+2020-10-30 21:00:41 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 21:00:41 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 21:00:41 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 21:00:41 INFO  TestBase:32 - Browser Initiated
+2020-10-30 21:00:41 INFO  TestBase:42 - Test name: logintest2
+2020-10-30 21:00:41 INFO  TestBase:58 - Executed test case name:logintest2 Execution Results : [TestResult name=logintest2 status=FAILURE method=Login.logintest2()[pri:0, instance:com.login.test.Login@2d8f65a4] output={null}]
+2020-10-30 21:00:41 INFO  TestBase:50 - Closing Browser
+2020-10-30 21:02:17 INFO  TestBase:24 - Initiate Browser
+2020-10-30 21:02:24 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 21:02:24 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 21:02:24 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 21:02:24 INFO  TestBase:30 - Browser Initiated
+2020-10-30 21:02:24 INFO  TestBase:40 - Test name: logintest
+2020-10-30 21:02:28 INFO  TestBase:56 - Executed test case name:logintest Execution Results : [TestResult name=logintest status=SUCCESS method=Login.logintest()[pri:0, instance:com.login.test.Login@646d64ab] output={null}]
+2020-10-30 21:02:28 INFO  TestBase:40 - Test name: logintest2
+2020-10-30 21:02:28 INFO  TestBase:56 - Executed test case name:logintest2 Execution Results : [TestResult name=logintest2 status=FAILURE method=Login.logintest2()[pri:0, instance:com.login.test.Login@646d64ab] output={null}]
+2020-10-30 21:02:28 INFO  TestBase:40 - Test name: logintest3
+2020-10-30 21:02:28 INFO  TestBase:56 - Executed test case name:logintest3 Execution Results : [TestResult name=logintest3 status=FAILURE method=Login.logintest3()[pri:0, instance:com.login.test.Login@646d64ab] output={null}]
+2020-10-30 21:02:28 INFO  TestBase:40 - Test name: logintest4
+2020-10-30 21:02:29 INFO  TestBase:56 - Executed test case name:logintest4 Execution Results : [TestResult name=logintest4 status=FAILURE method=Login.logintest4()[pri:0, instance:com.login.test.Login@646d64ab] output={null}]
+2020-10-30 21:02:29 INFO  TestBase:48 - Closing Browser
+2020-10-30 21:02:30 INFO  TestBase:50 - Browser Closed
+2020-10-30 21:03:03 INFO  TestBase:24 - Initiate Browser
+2020-10-30 21:03:09 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 21:03:09 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 21:03:09 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 21:03:09 INFO  TestBase:30 - Browser Initiated
+2020-10-30 21:03:09 INFO  TestBase:40 - Test name: logintest
+2020-10-30 21:03:14 INFO  TestBase:56 - Executed test case name:logintest Execution Results : [TestResult name=logintest status=SUCCESS method=Login.logintest()[pri:0, instance:com.login.test.Login@536aaa8d] output={null}]
+2020-10-30 21:03:14 INFO  TestBase:40 - Test name: logintest2
+2020-10-30 21:03:14 INFO  TestBase:56 - Executed test case name:logintest2 Execution Results : [TestResult name=logintest2 status=FAILURE method=Login.logintest2()[pri:0, instance:com.login.test.Login@536aaa8d] output={null}]
+2020-10-30 21:03:14 INFO  TestBase:40 - Test name: logintest3
+2020-10-30 21:03:14 INFO  TestBase:56 - Executed test case name:logintest3 Execution Results : [TestResult name=logintest3 status=FAILURE method=Login.logintest3()[pri:0, instance:com.login.test.Login@536aaa8d] output={null}]
+2020-10-30 21:03:14 INFO  TestBase:40 - Test name: logintest4
+2020-10-30 21:03:14 INFO  TestBase:56 - Executed test case name:logintest4 Execution Results : [TestResult name=logintest4 status=FAILURE method=Login.logintest4()[pri:0, instance:com.login.test.Login@536aaa8d] output={null}]
+2020-10-30 21:03:14 INFO  TestBase:48 - Closing Browser
+2020-10-30 21:03:16 INFO  TestBase:50 - Browser Closed
+2020-10-30 21:10:21 INFO  TestBase:27 - Initiate Browser
+2020-10-30 21:10:27 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 21:10:27 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 21:10:27 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 21:10:27 INFO  TestBase:33 - Browser Initiated
+2020-10-30 21:10:27 INFO  TestBase:43 - Test name: logintest
+2020-10-30 21:10:32 INFO  TestBase:64 - Executed test case name:logintest Execution Results : [TestResult name=logintest status=SUCCESS method=Login.logintest()[pri:0, instance:com.login.test.Login@59e5ddf] output={null}]
+2020-10-30 21:10:32 INFO  TestBase:56 - Closing Browser
+2020-10-30 21:10:34 INFO  TestBase:58 - Browser Closed
+2020-10-30 21:10:34 INFO  TestBase:27 - Initiate Browser
+2020-10-30 21:10:40 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 21:10:40 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 21:10:40 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 21:10:40 INFO  TestBase:33 - Browser Initiated
+2020-10-30 21:10:40 INFO  TestBase:43 - Test name: logintest2
+2020-10-30 21:10:41 INFO  TestBase:64 - Executed test case name:logintest2 Execution Results : [TestResult name=logintest2 status=SUCCESS method=Login.logintest2()[pri:0, instance:com.login.test.Login@59e5ddf] output={null}]
+2020-10-30 21:10:41 INFO  TestBase:56 - Closing Browser
+2020-10-30 21:10:42 INFO  TestBase:58 - Browser Closed
+2020-10-30 21:10:42 INFO  TestBase:27 - Initiate Browser
+2020-10-30 21:10:49 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 21:10:49 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 21:10:49 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 21:10:49 INFO  TestBase:33 - Browser Initiated
+2020-10-30 21:10:49 INFO  TestBase:43 - Test name: logintest3
+2020-10-30 21:10:50 INFO  TestBase:64 - Executed test case name:logintest3 Execution Results : [TestResult name=logintest3 status=SUCCESS method=Login.logintest3()[pri:0, instance:com.login.test.Login@59e5ddf] output={null}]
+2020-10-30 21:10:50 INFO  TestBase:56 - Closing Browser
+2020-10-30 21:10:51 INFO  TestBase:58 - Browser Closed
+2020-10-30 21:10:51 INFO  TestBase:27 - Initiate Browser
+2020-10-30 21:10:58 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 21:10:58 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 21:10:58 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 21:10:58 INFO  TestBase:33 - Browser Initiated
+2020-10-30 21:10:58 INFO  TestBase:43 - Test name: logintest4
+2020-10-30 21:11:00 INFO  TestBase:64 - Executed test case name:logintest4 Execution Results : [TestResult name=logintest4 status=SUCCESS method=Login.logintest4()[pri:0, instance:com.login.test.Login@59e5ddf] output={null}]
+2020-10-30 21:11:00 INFO  TestBase:56 - Closing Browser
+2020-10-30 21:11:01 INFO  TestBase:58 - Browser Closed
+2020-10-30 21:13:55 INFO  TestBase:27 - Initiate Browser
+2020-10-30 21:14:02 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 21:14:02 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 21:14:02 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 21:14:02 INFO  TestBase:33 - Browser Initiated
+2020-10-30 21:14:02 INFO  TestBase:43 - Test name: logintest
+2020-10-30 21:14:07 INFO  TestBase:65 - Executed test case name:logintest Execution Results : [TestResult name=logintest status=SUCCESS method=Login.logintest()[pri:0, instance:com.login.test.Login@59e5ddf] output={null}]
+2020-10-30 21:14:07 INFO  TestBase:27 - Initiate Browser
+2020-10-30 21:14:14 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 21:14:14 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 21:14:14 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 21:14:14 INFO  TestBase:33 - Browser Initiated
+2020-10-30 21:14:14 INFO  TestBase:43 - Test name: logintest2
+2020-10-30 21:14:14 INFO  TestBase:65 - Executed test case name:logintest2 Execution Results : [TestResult name={null} status=CREATED method=Login.logintest2()[pri:0, instance:com.login.test.Login@59e5ddf] output={null}]
+2020-10-30 21:14:14 INFO  TestBase:27 - Initiate Browser
+2020-10-30 21:14:20 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 21:14:20 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 21:14:20 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 21:14:20 INFO  TestBase:33 - Browser Initiated
+2020-10-30 21:14:20 INFO  TestBase:43 - Test name: logintest3
+2020-10-30 21:14:20 INFO  TestBase:65 - Executed test case name:logintest3 Execution Results : [TestResult name={null} status=CREATED method=Login.logintest3()[pri:0, instance:com.login.test.Login@59e5ddf] output={null}]
+2020-10-30 21:14:20 INFO  TestBase:27 - Initiate Browser
+2020-10-30 21:14:26 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 21:14:26 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 21:14:26 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 21:14:26 INFO  TestBase:33 - Browser Initiated
+2020-10-30 21:14:26 INFO  TestBase:43 - Test name: logintest4
+2020-10-30 21:14:26 INFO  TestBase:65 - Executed test case name:logintest4 Execution Results : [TestResult name={null} status=CREATED method=Login.logintest4()[pri:0, instance:com.login.test.Login@59e5ddf] output={null}]
+2020-10-30 21:16:37 INFO  TestBase:27 - Initiate Browser
+2020-10-30 21:16:44 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 21:16:44 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 21:16:44 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 21:16:44 INFO  TestBase:33 - Browser Initiated
+2020-10-30 21:16:44 INFO  TestBase:43 - Test name: logintest
+2020-10-30 21:16:50 INFO  TestBase:66 - Executed test case name:logintest Execution Results : [TestResult name=logintest status=SUCCESS method=Login.logintest()[pri:0, instance:com.login.test.Login@33c7e1bb] output={null}]
+2020-10-30 21:16:50 INFO  TestBase:43 - Test name: logintest2
+2020-10-30 21:16:50 INFO  TestBase:66 - Executed test case name:logintest2 Execution Results : [TestResult name={null} status=CREATED method=Login.logintest2()[pri:0, instance:com.login.test.Login@33c7e1bb] output={null}]
+2020-10-30 21:16:50 INFO  TestBase:43 - Test name: logintest3
+2020-10-30 21:16:50 INFO  TestBase:66 - Executed test case name:logintest3 Execution Results : [TestResult name={null} status=CREATED method=Login.logintest3()[pri:0, instance:com.login.test.Login@33c7e1bb] output={null}]
+2020-10-30 21:16:50 INFO  TestBase:43 - Test name: logintest4
+2020-10-30 21:16:50 INFO  TestBase:66 - Executed test case name:logintest4 Execution Results : [TestResult name={null} status=CREATED method=Login.logintest4()[pri:0, instance:com.login.test.Login@33c7e1bb] output={null}]
+2020-10-30 21:31:28 INFO  TestBase:26 - Initiate Browser
+2020-10-30 21:31:34 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 21:31:34 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 21:31:34 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 21:31:34 INFO  TestBase:32 - Browser Initiated
+2020-10-30 21:31:34 INFO  TestBase:42 - Test name: logintest2
+2020-10-30 21:31:34 INFO  TestBase:58 - Executed test case name:logintest2 Execution Results : [TestResult name=logintest2 status=SUCCESS method=Login.logintest2()[pri:0, instance:com.login.test.Login@34c4973] output={null}]
+2020-10-30 21:31:34 INFO  TestBase:50 - Closing Browser
+2020-10-30 21:31:36 INFO  TestBase:52 - Browser Closed
+2020-10-30 21:32:57 INFO  TestBase:27 - Initiate Browser
+2020-10-30 21:33:04 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 21:33:04 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 21:33:04 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 21:33:04 INFO  TestBase:33 - Browser Initiated
+2020-10-30 21:33:04 INFO  TestBase:43 - Test name: logintest
+2020-10-30 21:33:09 INFO  TestBase:59 - Executed test case name:logintest Execution Results : [TestResult name=logintest status=SUCCESS method=Login.logintest()[pri:0, instance:com.login.test.Login@59e5ddf] output={null}]
+2020-10-30 21:33:09 INFO  TestBase:51 - Closing Browser
+2020-10-30 21:33:10 INFO  TestBase:53 - Browser Closed
+2020-10-30 21:33:10 INFO  TestBase:27 - Initiate Browser
+2020-10-30 21:33:16 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 21:33:16 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 21:33:16 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 21:33:16 INFO  TestBase:33 - Browser Initiated
+2020-10-30 21:33:16 INFO  TestBase:43 - Test name: logintest2
+2020-10-30 21:33:16 INFO  TestBase:59 - Executed test case name:logintest2 Execution Results : [TestResult name=logintest2 status=SUCCESS method=Login.logintest2()[pri:0, instance:com.login.test.Login@59e5ddf] output={null}]
+2020-10-30 21:33:16 INFO  TestBase:51 - Closing Browser
+2020-10-30 21:33:17 INFO  TestBase:53 - Browser Closed
+2020-10-30 21:33:17 INFO  TestBase:63 - Stop Testcase
+2020-10-30 21:35:17 INFO  TestBase:24 - Initiate Browser
+2020-10-30 21:35:25 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 21:35:25 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 21:35:25 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 21:35:25 INFO  TestBase:30 - Browser Initiated
+2020-10-30 21:35:25 INFO  TestBase:40 - Test name: logintest
+2020-10-30 21:35:29 INFO  TestBase:56 - Executed test case name:logintest Execution Results : [TestResult name=logintest status=SUCCESS method=Login.logintest()[pri:0, instance:com.login.test.Login@536aaa8d] output={null}]
+2020-10-30 21:35:29 INFO  TestBase:48 - Closing Browser
+2020-10-30 21:35:30 INFO  TestBase:50 - Browser Closed
+2020-10-30 21:35:30 INFO  TestBase:40 - Test name: logintest2
+2020-10-30 21:35:30 INFO  TestBase:56 - Executed test case name:logintest2 Execution Results : [TestResult name=logintest2 status=SUCCESS method=Login.logintest2()[pri:0, instance:com.login.test.Login@536aaa8d] output={null}]
+2020-10-30 21:35:31 INFO  TestBase:48 - Closing Browser
+2020-10-30 21:35:32 INFO  TestBase:50 - Browser Closed
+2020-10-30 21:35:32 INFO  TestBase:60 - Stop Testcase
+2020-10-30 21:35:52 INFO  TestBase:24 - Initiate Browser
+2020-10-30 21:35:58 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 21:35:58 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 21:35:58 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 21:35:58 INFO  TestBase:30 - Browser Initiated
+2020-10-30 21:35:58 INFO  TestBase:40 - Test name: logintest
+2020-10-30 21:36:03 INFO  TestBase:56 - Executed test case name:logintest Execution Results : [TestResult name=logintest status=SUCCESS method=Login.logintest()[pri:0, instance:com.login.test.Login@536aaa8d] output={null}]
+2020-10-30 21:36:03 INFO  TestBase:48 - Closing Browser
+2020-10-30 21:36:04 INFO  TestBase:50 - Browser Closed
+2020-10-30 21:36:04 INFO  TestBase:40 - Test name: logintest2
+2020-10-30 21:36:04 INFO  TestBase:56 - Executed test case name:logintest2 Execution Results : [TestResult name=logintest2 status=FAILURE method=Login.logintest2()[pri:0, instance:com.login.test.Login@536aaa8d] output={null}]
+2020-10-30 21:36:04 INFO  TestBase:48 - Closing Browser
+2020-10-30 21:36:05 INFO  TestBase:50 - Browser Closed
+2020-10-30 21:36:05 INFO  TestBase:60 - Stop Testcase
+2020-10-30 22:06:38 INFO  TestBase:27 - Initiate Browser
+2020-10-30 22:06:45 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 22:06:45 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 22:06:45 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 22:06:45 INFO  TestBase:33 - Browser Initiated
+2020-10-30 22:06:45 INFO  TestBase:43 - Test name: VerifyloginTest
+2020-10-30 22:06:51 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=SUCCESS method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@1810399e] output={null}]
+2020-10-30 22:06:51 INFO  TestBase:51 - Closing Browser
+2020-10-30 22:06:52 INFO  TestBase:53 - Browser Closed
+2020-10-30 22:06:52 INFO  TestBase:63 - Stop Testcase
+2020-10-30 22:07:26 INFO  TestBase:27 - Initiate Browser
+2020-10-30 22:07:32 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 22:07:32 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 22:07:32 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 22:07:32 INFO  TestBase:33 - Browser Initiated
+2020-10-30 22:07:32 INFO  TestBase:43 - Test name: VerifyloginTest
+2020-10-30 22:07:32 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@5f375618] output={null}]
+2020-10-30 22:07:32 INFO  TestBase:51 - Closing Browser
+2020-10-30 22:07:34 INFO  TestBase:53 - Browser Closed
+2020-10-30 22:07:34 INFO  TestBase:63 - Stop Testcase
+2020-10-30 22:11:40 INFO  TestBase:27 - Initiate Browser
+2020-10-30 22:11:47 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 22:11:47 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 22:11:47 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 22:11:47 INFO  TestBase:33 - Browser Initiated
+2020-10-30 22:11:47 INFO  TestBase:43 - Test name: VerifyloginTest
+2020-10-30 22:11:53 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=SUCCESS method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@4439f31e] output={null}]
+2020-10-30 22:11:53 INFO  TestBase:51 - Closing Browser
+2020-10-30 22:11:54 INFO  TestBase:53 - Browser Closed
+2020-10-30 22:11:54 INFO  TestBase:63 - Stop Testcase
+2020-10-30 22:12:16 INFO  TestBase:27 - Initiate Browser
+2020-10-30 22:12:23 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 22:12:23 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 22:12:23 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 22:12:23 INFO  TestBase:33 - Browser Initiated
+2020-10-30 22:12:23 INFO  TestBase:43 - Test name: VerifyloginTest
+2020-10-30 22:12:29 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@4439f31e] output={null}]
+2020-10-30 22:12:29 INFO  TestBase:51 - Closing Browser
+2020-10-30 22:12:30 INFO  TestBase:53 - Browser Closed
+2020-10-30 22:12:30 INFO  TestBase:63 - Stop Testcase
+2020-10-30 22:14:59 INFO  TestBase:27 - Initiate Browser
+2020-10-30 22:15:06 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 22:15:06 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 22:15:06 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 22:15:06 INFO  TestBase:33 - Browser Initiated
+2020-10-30 22:15:06 INFO  TestBase:43 - Test name: VerifyloginTest
+2020-10-30 22:15:11 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@4439f31e] output={null}]
+2020-10-30 22:15:11 INFO  TestBase:51 - Closing Browser
+2020-10-30 22:15:12 INFO  TestBase:53 - Browser Closed
+2020-10-30 22:15:12 INFO  TestBase:63 - Stop Testcase
+2020-10-30 22:22:04 INFO  TestBase:27 - Initiate Browser
+2020-10-30 22:22:12 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 22:22:12 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 22:22:12 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 22:22:12 INFO  TestBase:33 - Browser Initiated
+2020-10-30 22:22:12 INFO  TestBase:43 - Test name: VerifyMethodbaseloginTest
+2020-10-30 22:22:12 INFO  TestBase:59 - Executed test case name:VerifyMethodbaseloginTest Execution Results : [TestResult name=VerifyMethodbaseloginTest status=SUCCESS method=LoginTest.VerifyMethodbaseloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@4439f31e] output={null}]
+2020-10-30 22:22:12 INFO  TestBase:51 - Closing Browser
+2020-10-30 22:22:13 INFO  TestBase:53 - Browser Closed
+2020-10-30 22:22:13 INFO  TestBase:63 - Stop Testcase
+2020-10-30 22:25:37 INFO  TestBase:27 - Initiate Browser
+2020-10-30 22:25:44 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 22:25:44 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 22:25:44 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 22:25:44 INFO  TestBase:33 - Browser Initiated
+2020-10-30 22:25:44 INFO  TestBase:43 - Test name: VerifyMethodbaseloginTest
+2020-10-30 22:25:50 INFO  TestBase:59 - Executed test case name:VerifyMethodbaseloginTest Execution Results : [TestResult name=VerifyMethodbaseloginTest status=FAILURE method=LoginTest.VerifyMethodbaseloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@4439f31e] output={null}]
+2020-10-30 22:25:50 INFO  TestBase:51 - Closing Browser
+2020-10-30 22:25:51 INFO  TestBase:53 - Browser Closed
+2020-10-30 22:25:51 INFO  TestBase:63 - Stop Testcase
+2020-10-30 22:26:28 INFO  TestBase:27 - Initiate Browser
+2020-10-30 22:26:35 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 22:26:35 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 22:26:35 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 22:26:35 INFO  TestBase:33 - Browser Initiated
+2020-10-30 22:26:35 INFO  TestBase:43 - Test name: VerifyMethodbaseloginTest
+2020-10-30 22:26:40 INFO  TestBase:59 - Executed test case name:VerifyMethodbaseloginTest Execution Results : [TestResult name=VerifyMethodbaseloginTest status=SUCCESS method=LoginTest.VerifyMethodbaseloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@4439f31e] output={null}]
+2020-10-30 22:26:40 INFO  TestBase:51 - Closing Browser
+2020-10-30 22:26:41 INFO  TestBase:53 - Browser Closed
+2020-10-30 22:26:41 INFO  TestBase:63 - Stop Testcase
+2020-10-30 22:32:20 INFO  TestBase:27 - Initiate Browser
+2020-10-30 22:32:30 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 22:32:30 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 22:32:30 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 22:32:30 INFO  TestBase:33 - Browser Initiated
+2020-10-30 22:32:30 INFO  TestBase:43 - Test name: VerifyMethodbaseloginTest
+2020-10-30 22:32:36 INFO  TestBase:59 - Executed test case name:VerifyMethodbaseloginTest Execution Results : [TestResult name=VerifyMethodbaseloginTest status=SUCCESS method=LoginTest.VerifyMethodbaseloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@4439f31e] output={null}]
+2020-10-30 22:32:36 INFO  TestBase:51 - Closing Browser
+2020-10-30 22:32:37 INFO  TestBase:53 - Browser Closed
+2020-10-30 22:32:37 INFO  TestBase:63 - Stop Testcase
+2020-10-30 22:32:54 INFO  TestBase:27 - Initiate Browser
+2020-10-30 22:33:02 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 22:33:02 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 22:33:02 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 22:33:02 INFO  TestBase:33 - Browser Initiated
+2020-10-30 22:33:02 INFO  TestBase:43 - Test name: VerifyMethodbaseloginTest
+2020-10-30 22:33:07 INFO  TestBase:59 - Executed test case name:VerifyMethodbaseloginTest Execution Results : [TestResult name=VerifyMethodbaseloginTest status=FAILURE method=LoginTest.VerifyMethodbaseloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@4439f31e] output={null}]
+2020-10-30 22:33:07 INFO  TestBase:51 - Closing Browser
+2020-10-30 22:33:08 INFO  TestBase:53 - Browser Closed
+2020-10-30 22:33:08 INFO  TestBase:63 - Stop Testcase
+2020-10-30 22:34:16 INFO  TestBase:27 - Initiate Browser
+2020-10-30 22:34:23 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 22:34:23 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 22:34:23 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 22:34:23 INFO  TestBase:33 - Browser Initiated
+2020-10-30 22:34:23 INFO  TestBase:43 - Test name: VerifyloginTest
+2020-10-30 22:34:29 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@4439f31e] output={null}]
+2020-10-30 22:34:29 INFO  TestBase:51 - Closing Browser
+2020-10-30 22:34:30 INFO  TestBase:53 - Browser Closed
+2020-10-30 22:34:30 INFO  TestBase:63 - Stop Testcase
+2020-10-30 22:34:55 INFO  TestBase:27 - Initiate Browser
+2020-10-30 22:35:03 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 22:35:03 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 22:35:03 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 22:35:03 INFO  TestBase:33 - Browser Initiated
+2020-10-30 22:35:03 INFO  TestBase:43 - Test name: VerifyloginTest
+2020-10-30 22:35:08 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@4439f31e] output={null}]
+2020-10-30 22:35:08 INFO  TestBase:51 - Closing Browser
+2020-10-30 22:35:09 INFO  TestBase:53 - Browser Closed
+2020-10-30 22:35:09 INFO  TestBase:63 - Stop Testcase
+2020-10-30 22:35:55 INFO  TestBase:27 - Initiate Browser
+2020-10-30 22:36:02 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 22:36:02 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 22:36:02 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 22:36:02 INFO  TestBase:33 - Browser Initiated
+2020-10-30 22:36:02 INFO  TestBase:43 - Test name: VerifyloginTest
+2020-10-30 22:36:08 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@4439f31e] output={null}]
+2020-10-30 22:36:08 INFO  TestBase:51 - Closing Browser
+2020-10-30 22:36:09 INFO  TestBase:53 - Browser Closed
+2020-10-30 22:36:09 INFO  TestBase:63 - Stop Testcase
+2020-10-30 22:36:55 INFO  TestBase:27 - Initiate Browser
+2020-10-30 22:37:02 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 22:37:02 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 22:37:02 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 22:37:02 INFO  TestBase:33 - Browser Initiated
+2020-10-30 22:37:02 INFO  TestBase:43 - Test name: VerifyloginTest
+2020-10-30 22:37:07 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@4439f31e] output={null}]
+2020-10-30 22:37:07 INFO  TestBase:51 - Closing Browser
+2020-10-30 22:37:08 INFO  TestBase:53 - Browser Closed
+2020-10-30 22:37:08 INFO  TestBase:63 - Stop Testcase
+2020-10-30 22:38:00 INFO  TestBase:27 - Initiate Browser
+2020-10-30 22:38:08 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 22:38:08 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 22:38:08 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 22:38:08 INFO  TestBase:33 - Browser Initiated
+2020-10-30 22:38:08 INFO  TestBase:43 - Test name: VerifyloginTest
+2020-10-30 22:38:13 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@4439f31e] output={null}]
+2020-10-30 22:38:13 INFO  TestBase:51 - Closing Browser
+2020-10-30 22:38:14 INFO  TestBase:53 - Browser Closed
+2020-10-30 22:38:14 INFO  TestBase:63 - Stop Testcase
+2020-10-30 22:40:39 INFO  TestBase:27 - Initiate Browser
+2020-10-30 22:40:46 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-10-30 22:40:46 INFO  PageBase:88 -  Chrome Type :chrome
+2020-10-30 22:40:46 INFO  PageBase:89 -  Os Type :ubuntu
+2020-10-30 22:40:46 INFO  TestBase:33 - Browser Initiated
+2020-10-30 22:40:46 INFO  TestBase:43 - Test name: VerifyloginTest
+2020-10-30 22:40:52 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=SUCCESS method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@4439f31e] output={null}]
+2020-10-30 22:40:52 INFO  TestBase:51 - Closing Browser
+2020-10-30 22:40:53 INFO  TestBase:53 - Browser Closed
+2020-10-30 22:40:53 INFO  TestBase:63 - Stop Testcase
+2020-12-19 06:31:46 INFO  TestBase:27 - Initiate Browser
+2020-12-19 06:31:52 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-12-19 06:31:52 INFO  PageBase:88 -  Chrome Type :chrome
+2020-12-19 06:31:52 INFO  PageBase:89 -  Os Type :ubuntu
+2020-12-19 06:31:52 INFO  TestBase:33 - Browser Initiated
+2020-12-19 06:31:52 INFO  TestBase:43 - Test name: loingtest3
+2020-12-19 06:31:57 INFO  TestBase:59 - Executed test case name:loingtest3 Execution Results : [TestResult name=loingtest3 status=SUCCESS method=Login.loingtest3()[pri:0, instance:com.login.test.Login@5f375618] output={null}]
+2020-12-19 06:31:57 INFO  TestBase:51 - Closing Browser
+2020-12-19 06:31:58 INFO  TestBase:53 - Browser Closed
+2020-12-19 06:31:58 INFO  TestBase:63 - Stop Testcase
+2020-12-19 06:36:50 INFO  TestBase:27 - Initiate Browser
+2020-12-19 06:36:56 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-12-19 06:36:56 INFO  PageBase:88 -  Chrome Type :chrome
+2020-12-19 06:36:56 INFO  PageBase:89 -  Os Type :ubuntu
+2020-12-19 06:36:56 INFO  TestBase:33 - Browser Initiated
+2020-12-19 06:36:56 INFO  TestBase:43 - Test name: loingtest3
+2020-12-19 06:36:57 INFO  TestBase:59 - Executed test case name:loingtest3 Execution Results : [TestResult name=loingtest3 status=SUCCESS method=Login.loingtest3()[pri:0, instance:com.login.test.Login@5f375618] output={null}]
+2020-12-19 06:36:57 INFO  TestBase:51 - Closing Browser
+2020-12-19 06:36:58 INFO  TestBase:53 - Browser Closed
+2020-12-19 06:36:58 INFO  TestBase:63 - Stop Testcase
+2020-12-19 07:00:25 INFO  TestBase:27 - Initiate Browser
+2020-12-19 07:00:35 INFO  PageBase:87 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2020-12-19 07:00:35 INFO  PageBase:88 -  Chrome Type :chrome
+2020-12-19 07:00:35 INFO  PageBase:89 -  Os Type :ubuntu
+2020-12-19 07:00:35 INFO  TestBase:33 - Browser Initiated
+2020-12-19 07:00:35 INFO  TestBase:43 - Test name: loingtest3
+2020-12-19 07:00:41 INFO  TestBase:59 - Executed test case name:loingtest3 Execution Results : [TestResult name=loingtest3 status=SUCCESS method=Login.loingtest3()[pri:0, instance:com.login.test.Login@5f375618] output={null}]
+2020-12-19 07:00:41 INFO  TestBase:51 - Closing Browser
+2020-12-19 07:00:42 INFO  TestBase:53 - Browser Closed
+2020-12-19 07:00:42 INFO  TestBase:63 - Stop Testcase
+2022-09-25 20:15:01 INFO  TestBase:27 - Initiate Browser
+2022-09-25 20:15:24 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-25 20:15:24 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=SKIP method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@5cc7c2a6] output={null}]
+2022-09-25 20:15:24 INFO  TestBase:51 - Closing Browser
+2022-09-25 20:25:51 INFO  TestBase:27 - Initiate Browser
+2022-09-25 20:26:14 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-25 20:26:14 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-25 20:26:14 INFO  PageBase:90 -  Os Type :windows
+2022-09-25 20:26:14 INFO  TestBase:33 - Browser Initiated
+2022-09-25 20:26:14 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-25 20:26:14 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-25 20:26:14 INFO  TestBase:51 - Closing Browser
+2022-09-25 20:26:17 INFO  TestBase:53 - Browser Closed
+2022-09-25 20:26:17 INFO  TestBase:63 - Stop Testcase
+2022-09-25 20:33:32 INFO  TestBase:27 - Initiate Browser
+2022-09-25 20:33:52 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-25 20:33:52 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-25 20:33:52 INFO  PageBase:90 -  Os Type :windows
+2022-09-25 20:33:52 INFO  TestBase:33 - Browser Initiated
+2022-09-25 20:33:52 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-25 20:33:52 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-25 20:33:52 INFO  TestBase:51 - Closing Browser
+2022-09-25 20:33:54 INFO  TestBase:53 - Browser Closed
+2022-09-25 20:33:54 INFO  TestBase:63 - Stop Testcase
+2022-09-25 20:37:28 INFO  TestBase:27 - Initiate Browser
+2022-09-25 20:37:48 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-25 20:37:48 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-25 20:37:48 INFO  PageBase:90 -  Os Type :windows
+2022-09-25 20:37:48 INFO  TestBase:33 - Browser Initiated
+2022-09-25 20:37:48 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-25 20:37:48 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-25 20:37:48 INFO  TestBase:51 - Closing Browser
+2022-09-25 20:37:51 INFO  TestBase:53 - Browser Closed
+2022-09-25 20:37:51 INFO  TestBase:63 - Stop Testcase
+2022-09-25 20:39:00 INFO  TestBase:27 - Initiate Browser
+2022-09-25 20:39:21 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-25 20:39:21 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-25 20:39:21 INFO  PageBase:90 -  Os Type :windows
+2022-09-25 20:39:21 INFO  TestBase:33 - Browser Initiated
+2022-09-25 20:39:21 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-25 20:39:23 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-25 20:39:23 INFO  TestBase:51 - Closing Browser
+2022-09-25 20:39:25 INFO  TestBase:53 - Browser Closed
+2022-09-25 20:39:25 INFO  TestBase:63 - Stop Testcase
+2022-09-25 20:40:46 INFO  TestBase:27 - Initiate Browser
+2022-09-25 20:41:04 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-25 20:41:04 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-25 20:41:04 INFO  PageBase:90 -  Os Type :windows
+2022-09-25 20:41:04 INFO  TestBase:33 - Browser Initiated
+2022-09-25 20:41:04 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-25 20:41:06 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-25 20:41:06 INFO  TestBase:51 - Closing Browser
+2022-09-25 20:41:09 INFO  TestBase:53 - Browser Closed
+2022-09-25 20:41:09 INFO  TestBase:63 - Stop Testcase
+2022-09-25 20:44:07 INFO  TestBase:27 - Initiate Browser
+2022-09-25 20:44:26 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-25 20:44:26 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-25 20:44:26 INFO  PageBase:90 -  Os Type :windows
+2022-09-25 20:44:26 INFO  TestBase:33 - Browser Initiated
+2022-09-25 20:44:26 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-25 20:44:33 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@5cc7c2a6] output={null}]
+2022-09-25 20:44:33 INFO  TestBase:51 - Closing Browser
+2022-09-25 20:44:35 INFO  TestBase:53 - Browser Closed
+2022-09-25 20:44:35 INFO  TestBase:63 - Stop Testcase
+2022-09-26 21:41:03 INFO  TestBase:27 - Initiate Browser
+2022-09-26 21:41:24 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 21:41:24 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 21:41:24 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 21:41:24 INFO  TestBase:33 - Browser Initiated
+2022-09-26 21:41:24 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-26 21:41:32 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@3c09711b] output={null}]
+2022-09-26 21:41:32 INFO  TestBase:51 - Closing Browser
+2022-09-26 21:41:35 INFO  TestBase:53 - Browser Closed
+2022-09-26 21:41:35 INFO  TestBase:63 - Stop Testcase
+2022-09-26 21:42:01 INFO  TestBase:27 - Initiate Browser
+2022-09-26 21:42:21 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 21:42:21 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 21:42:21 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 21:42:21 INFO  TestBase:33 - Browser Initiated
+2022-09-26 21:42:21 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-26 21:42:28 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@32e6e9c3] output={null}]
+2022-09-26 21:42:28 INFO  TestBase:51 - Closing Browser
+2022-09-26 21:42:30 INFO  TestBase:53 - Browser Closed
+2022-09-26 21:42:30 INFO  TestBase:63 - Stop Testcase
+2022-09-26 22:36:16 INFO  TestBase:27 - Initiate Browser
+2022-09-26 22:36:36 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 22:36:36 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 22:36:36 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 22:36:36 INFO  TestBase:33 - Browser Initiated
+2022-09-26 22:36:36 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-26 22:36:37 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 22:36:37 INFO  TestBase:51 - Closing Browser
+2022-09-26 22:36:39 INFO  TestBase:53 - Browser Closed
+2022-09-26 22:36:39 INFO  TestBase:27 - Initiate Browser
+2022-09-26 22:36:55 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 22:36:55 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 22:36:55 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 22:36:55 INFO  TestBase:33 - Browser Initiated
+2022-09-26 22:36:55 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-26 22:37:02 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 22:37:02 INFO  TestBase:51 - Closing Browser
+2022-09-26 22:37:04 INFO  TestBase:53 - Browser Closed
+2022-09-26 22:37:04 INFO  TestBase:63 - Stop Testcase
+2022-09-26 22:39:47 INFO  TestBase:27 - Initiate Browser
+2022-09-26 22:40:06 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 22:40:06 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 22:40:06 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 22:40:06 INFO  TestBase:33 - Browser Initiated
+2022-09-26 22:40:06 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-26 22:40:06 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@6276ae34] output={null}]
+2022-09-26 22:40:06 INFO  TestBase:51 - Closing Browser
+2022-09-26 22:40:08 INFO  TestBase:53 - Browser Closed
+2022-09-26 22:40:08 INFO  TestBase:27 - Initiate Browser
+2022-09-26 22:40:25 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 22:40:25 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 22:40:25 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 22:40:25 INFO  TestBase:33 - Browser Initiated
+2022-09-26 22:40:25 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-26 22:40:31 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@6276ae34] output={null}]
+2022-09-26 22:40:31 INFO  TestBase:51 - Closing Browser
+2022-09-26 22:40:33 INFO  TestBase:53 - Browser Closed
+2022-09-26 22:40:33 INFO  TestBase:63 - Stop Testcase
+2022-09-26 22:42:08 INFO  TestBase:27 - Initiate Browser
+2022-09-26 22:42:28 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 22:42:28 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 22:42:28 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 22:42:28 INFO  TestBase:33 - Browser Initiated
+2022-09-26 22:42:28 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-26 22:42:28 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 22:42:28 INFO  TestBase:51 - Closing Browser
+2022-09-26 22:42:31 INFO  TestBase:53 - Browser Closed
+2022-09-26 22:42:31 INFO  TestBase:27 - Initiate Browser
+2022-09-26 22:42:48 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 22:42:48 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 22:42:48 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 22:42:48 INFO  TestBase:33 - Browser Initiated
+2022-09-26 22:42:48 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-26 22:42:48 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 22:42:48 INFO  TestBase:51 - Closing Browser
+2022-09-26 22:42:50 INFO  TestBase:53 - Browser Closed
+2022-09-26 22:42:50 INFO  TestBase:63 - Stop Testcase
+2022-09-26 22:45:31 INFO  TestBase:27 - Initiate Browser
+2022-09-26 22:45:49 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 22:45:49 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 22:45:49 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 22:45:49 INFO  TestBase:33 - Browser Initiated
+2022-09-26 22:45:49 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-26 22:45:50 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 22:45:50 INFO  TestBase:51 - Closing Browser
+2022-09-26 22:45:52 INFO  TestBase:53 - Browser Closed
+2022-09-26 22:45:52 INFO  TestBase:27 - Initiate Browser
+2022-09-26 22:46:09 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 22:46:09 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 22:46:09 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 22:46:09 INFO  TestBase:33 - Browser Initiated
+2022-09-26 22:46:09 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-26 22:46:09 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 22:46:09 INFO  TestBase:51 - Closing Browser
+2022-09-26 22:46:11 INFO  TestBase:53 - Browser Closed
+2022-09-26 22:46:11 INFO  TestBase:63 - Stop Testcase
+2022-09-26 22:46:34 INFO  TestBase:27 - Initiate Browser
+2022-09-26 22:46:51 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 22:46:51 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 22:46:51 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 22:46:51 INFO  TestBase:33 - Browser Initiated
+2022-09-26 22:46:51 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-26 22:46:51 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 22:46:51 INFO  TestBase:51 - Closing Browser
+2022-09-26 22:46:54 INFO  TestBase:53 - Browser Closed
+2022-09-26 22:46:54 INFO  TestBase:27 - Initiate Browser
+2022-09-26 22:47:10 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 22:47:10 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 22:47:10 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 22:47:10 INFO  TestBase:33 - Browser Initiated
+2022-09-26 22:47:10 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-26 22:47:17 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 22:47:17 INFO  TestBase:51 - Closing Browser
+2022-09-26 22:47:19 INFO  TestBase:53 - Browser Closed
+2022-09-26 22:47:19 INFO  TestBase:63 - Stop Testcase
+2022-09-26 22:48:18 INFO  TestBase:27 - Initiate Browser
+2022-09-26 22:48:36 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 22:48:36 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 22:48:36 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 22:48:36 INFO  TestBase:33 - Browser Initiated
+2022-09-26 22:48:36 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-26 22:48:38 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@b97c004] output={null}]
+2022-09-26 22:48:38 INFO  TestBase:51 - Closing Browser
+2022-09-26 22:48:40 INFO  TestBase:53 - Browser Closed
+2022-09-26 22:48:40 INFO  TestBase:63 - Stop Testcase
+2022-09-26 22:49:45 INFO  TestBase:27 - Initiate Browser
+2022-09-26 22:50:05 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 22:50:05 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 22:50:05 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 22:50:05 INFO  TestBase:33 - Browser Initiated
+2022-09-26 22:50:05 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-26 22:50:07 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 22:50:07 INFO  TestBase:51 - Closing Browser
+2022-09-26 22:50:09 INFO  TestBase:53 - Browser Closed
+2022-09-26 22:50:09 INFO  TestBase:27 - Initiate Browser
+2022-09-26 22:50:25 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 22:50:25 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 22:50:25 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 22:50:25 INFO  TestBase:33 - Browser Initiated
+2022-09-26 22:50:25 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-26 22:50:32 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 22:50:32 INFO  TestBase:51 - Closing Browser
+2022-09-26 22:50:34 INFO  TestBase:53 - Browser Closed
+2022-09-26 22:50:34 INFO  TestBase:63 - Stop Testcase
+2022-09-26 22:51:17 INFO  TestBase:27 - Initiate Browser
+2022-09-26 22:51:35 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 22:51:35 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 22:51:35 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 22:51:35 INFO  TestBase:33 - Browser Initiated
+2022-09-26 22:51:35 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-26 22:51:37 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@6276ae34] output={null}]
+2022-09-26 22:51:37 INFO  TestBase:51 - Closing Browser
+2022-09-26 22:51:40 INFO  TestBase:53 - Browser Closed
+2022-09-26 22:51:40 INFO  TestBase:27 - Initiate Browser
+2022-09-26 22:51:57 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 22:51:57 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 22:51:57 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 22:51:57 INFO  TestBase:33 - Browser Initiated
+2022-09-26 22:51:57 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-26 22:52:04 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@6276ae34] output={null}]
+2022-09-26 22:52:04 INFO  TestBase:51 - Closing Browser
+2022-09-26 22:52:06 INFO  TestBase:53 - Browser Closed
+2022-09-26 22:52:06 INFO  TestBase:63 - Stop Testcase
+2022-09-26 22:56:16 INFO  TestBase:27 - Initiate Browser
+2022-09-26 22:56:35 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 22:56:35 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 22:56:35 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 22:56:35 INFO  TestBase:33 - Browser Initiated
+2022-09-26 22:56:35 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-26 22:56:37 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 22:56:37 INFO  TestBase:51 - Closing Browser
+2022-09-26 22:56:39 INFO  TestBase:53 - Browser Closed
+2022-09-26 22:56:39 INFO  TestBase:27 - Initiate Browser
+2022-09-26 22:56:56 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 22:56:56 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 22:56:56 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 22:56:56 INFO  TestBase:33 - Browser Initiated
+2022-09-26 22:56:56 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-26 22:57:02 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 22:57:02 INFO  TestBase:51 - Closing Browser
+2022-09-26 22:57:04 INFO  TestBase:53 - Browser Closed
+2022-09-26 22:57:04 INFO  TestBase:63 - Stop Testcase
+2022-09-26 23:00:46 INFO  TestBase:27 - Initiate Browser
+2022-09-26 23:01:04 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-26 23:01:04 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=SKIP method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 23:01:04 INFO  TestBase:51 - Closing Browser
+2022-09-26 23:01:16 INFO  TestBase:27 - Initiate Browser
+2022-09-26 23:01:34 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 23:01:34 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 23:01:34 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 23:01:34 INFO  TestBase:33 - Browser Initiated
+2022-09-26 23:01:34 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-26 23:01:37 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=SUCCESS method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@59e84876] output={null}]
+2022-09-26 23:01:37 INFO  TestBase:51 - Closing Browser
+2022-09-26 23:01:39 INFO  TestBase:53 - Browser Closed
+2022-09-26 23:02:27 INFO  TestBase:27 - Initiate Browser
+2022-09-26 23:02:44 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 23:02:44 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 23:02:44 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 23:02:44 INFO  TestBase:33 - Browser Initiated
+2022-09-26 23:02:44 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-26 23:02:46 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 23:02:46 INFO  TestBase:51 - Closing Browser
+2022-09-26 23:02:48 INFO  TestBase:53 - Browser Closed
+2022-09-26 23:02:48 INFO  TestBase:27 - Initiate Browser
+2022-09-26 23:03:05 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 23:03:05 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 23:03:05 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 23:03:05 INFO  TestBase:33 - Browser Initiated
+2022-09-26 23:03:05 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-26 23:03:08 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=SUCCESS method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 23:03:08 INFO  TestBase:51 - Closing Browser
+2022-09-26 23:03:10 INFO  TestBase:53 - Browser Closed
+2022-09-26 23:03:10 INFO  TestBase:63 - Stop Testcase
+2022-09-26 23:06:40 INFO  TestBase:27 - Initiate Browser
+2022-09-26 23:06:59 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 23:06:59 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 23:06:59 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 23:06:59 INFO  TestBase:33 - Browser Initiated
+2022-09-26 23:06:59 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-26 23:07:01 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 23:07:01 INFO  TestBase:51 - Closing Browser
+2022-09-26 23:07:03 INFO  TestBase:53 - Browser Closed
+2022-09-26 23:07:03 INFO  TestBase:27 - Initiate Browser
+2022-09-26 23:07:19 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 23:07:19 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 23:07:19 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 23:07:19 INFO  TestBase:33 - Browser Initiated
+2022-09-26 23:07:19 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-26 23:07:21 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=SUCCESS method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 23:07:21 INFO  TestBase:51 - Closing Browser
+2022-09-26 23:07:23 INFO  TestBase:53 - Browser Closed
+2022-09-26 23:07:23 INFO  TestBase:63 - Stop Testcase
+2022-09-26 23:07:59 INFO  TestBase:27 - Initiate Browser
+2022-09-26 23:08:21 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 23:08:21 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 23:08:21 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 23:08:21 INFO  TestBase:33 - Browser Initiated
+2022-09-26 23:08:21 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-26 23:08:23 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 23:08:23 INFO  TestBase:51 - Closing Browser
+2022-09-26 23:08:25 INFO  TestBase:53 - Browser Closed
+2022-09-26 23:08:25 INFO  TestBase:27 - Initiate Browser
+2022-09-26 23:08:42 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 23:08:42 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 23:08:42 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 23:08:42 INFO  TestBase:33 - Browser Initiated
+2022-09-26 23:08:42 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-26 23:08:48 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 23:08:48 INFO  TestBase:51 - Closing Browser
+2022-09-26 23:08:50 INFO  TestBase:53 - Browser Closed
+2022-09-26 23:08:50 INFO  TestBase:63 - Stop Testcase
+2022-09-26 23:10:02 INFO  TestBase:27 - Initiate Browser
+2022-09-26 23:10:20 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 23:10:20 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 23:10:20 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 23:10:20 INFO  TestBase:33 - Browser Initiated
+2022-09-26 23:10:20 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-26 23:10:25 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 23:10:25 INFO  TestBase:51 - Closing Browser
+2022-09-26 23:10:27 INFO  TestBase:53 - Browser Closed
+2022-09-26 23:10:27 INFO  TestBase:27 - Initiate Browser
+2022-09-26 23:10:46 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 23:10:46 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 23:10:46 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 23:10:46 INFO  TestBase:33 - Browser Initiated
+2022-09-26 23:10:46 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-26 23:10:52 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 23:10:52 INFO  TestBase:51 - Closing Browser
+2022-09-26 23:10:54 INFO  TestBase:53 - Browser Closed
+2022-09-26 23:10:54 INFO  TestBase:63 - Stop Testcase
+2022-09-26 23:15:37 INFO  TestBase:27 - Initiate Browser
+2022-09-26 23:15:53 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 23:15:53 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 23:15:53 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 23:15:53 INFO  TestBase:33 - Browser Initiated
+2022-09-26 23:15:53 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-26 23:15:58 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 23:15:58 INFO  TestBase:51 - Closing Browser
+2022-09-26 23:16:00 INFO  TestBase:53 - Browser Closed
+2022-09-26 23:16:00 INFO  TestBase:27 - Initiate Browser
+2022-09-26 23:16:16 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-26 23:16:16 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-26 23:16:16 INFO  PageBase:90 -  Os Type :windows
+2022-09-26 23:16:16 INFO  TestBase:33 - Browser Initiated
+2022-09-26 23:16:16 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-26 23:16:22 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-26 23:16:22 INFO  TestBase:51 - Closing Browser
+2022-09-26 23:16:24 INFO  TestBase:53 - Browser Closed
+2022-09-26 23:16:24 INFO  TestBase:63 - Stop Testcase
+2022-09-28 21:58:17 INFO  TestBase:27 - Initiate Browser
+2022-09-28 21:58:38 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-28 21:58:38 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-28 21:58:38 INFO  PageBase:90 -  Os Type :windows
+2022-09-28 21:58:38 INFO  TestBase:33 - Browser Initiated
+2022-09-28 21:58:38 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-28 21:58:43 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-28 21:58:43 INFO  TestBase:51 - Closing Browser
+2022-09-28 21:58:46 INFO  TestBase:53 - Browser Closed
+2022-09-28 21:58:46 INFO  TestBase:27 - Initiate Browser
+2022-09-28 21:59:04 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-28 21:59:04 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-28 21:59:04 INFO  PageBase:90 -  Os Type :windows
+2022-09-28 21:59:04 INFO  TestBase:33 - Browser Initiated
+2022-09-28 21:59:04 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-28 21:59:12 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-28 21:59:12 INFO  TestBase:51 - Closing Browser
+2022-09-28 21:59:15 INFO  TestBase:53 - Browser Closed
+2022-09-28 21:59:15 INFO  TestBase:63 - Stop Testcase
+2022-09-28 22:07:06 INFO  TestBase:27 - Initiate Browser
+2022-09-28 22:07:24 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-28 22:07:24 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-28 22:07:24 INFO  PageBase:90 -  Os Type :windows
+2022-09-28 22:07:24 INFO  TestBase:33 - Browser Initiated
+2022-09-28 22:07:24 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-28 22:07:29 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-28 22:07:29 INFO  TestBase:51 - Closing Browser
+2022-09-28 22:07:31 INFO  TestBase:53 - Browser Closed
+2022-09-28 22:07:31 INFO  TestBase:27 - Initiate Browser
+2022-09-28 22:07:48 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-28 22:07:48 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-28 22:07:48 INFO  PageBase:90 -  Os Type :windows
+2022-09-28 22:07:48 INFO  TestBase:33 - Browser Initiated
+2022-09-28 22:07:48 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-28 22:07:56 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-28 22:07:56 INFO  TestBase:51 - Closing Browser
+2022-09-28 22:07:58 INFO  TestBase:53 - Browser Closed
+2022-09-28 22:07:58 INFO  TestBase:63 - Stop Testcase
+2022-09-28 22:10:53 INFO  TestBase:27 - Initiate Browser
+2022-09-28 22:11:12 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-28 22:11:12 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-28 22:11:12 INFO  PageBase:90 -  Os Type :windows
+2022-09-28 22:11:12 INFO  TestBase:33 - Browser Initiated
+2022-09-28 22:11:12 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-28 22:11:17 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-28 22:11:17 INFO  TestBase:51 - Closing Browser
+2022-09-28 22:11:19 INFO  TestBase:53 - Browser Closed
+2022-09-28 22:11:19 INFO  TestBase:27 - Initiate Browser
+2022-09-28 22:11:37 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-28 22:11:37 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-28 22:11:37 INFO  PageBase:90 -  Os Type :windows
+2022-09-28 22:11:37 INFO  TestBase:33 - Browser Initiated
+2022-09-28 22:11:37 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-28 22:11:44 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-28 22:11:44 INFO  TestBase:51 - Closing Browser
+2022-09-28 22:11:46 INFO  TestBase:53 - Browser Closed
+2022-09-28 22:11:46 INFO  TestBase:63 - Stop Testcase
+2022-09-28 22:14:49 INFO  TestBase:27 - Initiate Browser
+2022-09-28 22:15:07 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-28 22:15:07 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-28 22:15:07 INFO  PageBase:90 -  Os Type :windows
+2022-09-28 22:15:07 INFO  TestBase:33 - Browser Initiated
+2022-09-28 22:15:07 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-28 22:15:12 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-28 22:15:12 INFO  TestBase:51 - Closing Browser
+2022-09-28 22:15:14 INFO  TestBase:53 - Browser Closed
+2022-09-28 22:15:14 INFO  TestBase:27 - Initiate Browser
+2022-09-28 22:15:32 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-28 22:15:32 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-28 22:15:32 INFO  PageBase:90 -  Os Type :windows
+2022-09-28 22:15:32 INFO  TestBase:33 - Browser Initiated
+2022-09-28 22:15:32 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-28 22:15:40 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-28 22:15:40 INFO  TestBase:51 - Closing Browser
+2022-09-28 22:15:42 INFO  TestBase:53 - Browser Closed
+2022-09-28 22:15:42 INFO  TestBase:63 - Stop Testcase
+2022-09-28 22:20:14 INFO  TestBase:27 - Initiate Browser
+2022-09-28 22:20:34 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-28 22:20:34 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-28 22:20:34 INFO  PageBase:90 -  Os Type :windows
+2022-09-28 22:20:34 INFO  TestBase:33 - Browser Initiated
+2022-09-28 22:20:34 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-28 22:20:39 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-28 22:20:39 INFO  TestBase:51 - Closing Browser
+2022-09-28 22:20:41 INFO  TestBase:53 - Browser Closed
+2022-09-28 22:20:41 INFO  TestBase:27 - Initiate Browser
+2022-09-28 22:20:59 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-28 22:20:59 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-28 22:20:59 INFO  PageBase:90 -  Os Type :windows
+2022-09-28 22:20:59 INFO  TestBase:33 - Browser Initiated
+2022-09-28 22:20:59 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-28 22:21:06 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-28 22:21:06 INFO  TestBase:51 - Closing Browser
+2022-09-28 22:21:08 INFO  TestBase:53 - Browser Closed
+2022-09-28 22:21:08 INFO  TestBase:63 - Stop Testcase
+2022-09-28 22:21:45 INFO  TestBase:27 - Initiate Browser
+2022-09-28 22:22:05 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-28 22:22:05 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-28 22:22:05 INFO  PageBase:90 -  Os Type :windows
+2022-09-28 22:22:05 INFO  TestBase:33 - Browser Initiated
+2022-09-28 22:22:05 INFO  TestBase:43 - Test name: VerifyEmpCreate
+2022-09-28 22:22:10 INFO  TestBase:59 - Executed test case name:VerifyEmpCreate Execution Results : [TestResult name=VerifyEmpCreate status=FAILURE method=LoginTest.VerifyEmpCreate()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-28 22:22:10 INFO  TestBase:51 - Closing Browser
+2022-09-28 22:22:13 INFO  TestBase:53 - Browser Closed
+2022-09-28 22:22:13 INFO  TestBase:27 - Initiate Browser
+2022-09-28 22:22:30 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-28 22:22:30 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-28 22:22:30 INFO  PageBase:90 -  Os Type :windows
+2022-09-28 22:22:30 INFO  TestBase:33 - Browser Initiated
+2022-09-28 22:22:30 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-28 22:22:37 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-28 22:22:37 INFO  TestBase:51 - Closing Browser
+2022-09-28 22:22:39 INFO  TestBase:53 - Browser Closed
+2022-09-28 22:22:39 INFO  TestBase:63 - Stop Testcase
+2022-09-28 22:26:42 INFO  TestBase:27 - Initiate Browser
+2022-09-28 22:27:00 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-28 22:27:00 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-28 22:27:00 INFO  PageBase:90 -  Os Type :windows
+2022-09-28 22:27:00 INFO  TestBase:33 - Browser Initiated
+2022-09-28 22:27:00 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-28 22:27:08 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-28 22:27:08 INFO  TestBase:51 - Closing Browser
+2022-09-28 22:27:11 INFO  TestBase:53 - Browser Closed
+2022-09-28 22:27:11 INFO  TestBase:63 - Stop Testcase
+2022-09-28 22:40:40 INFO  TestBase:27 - Initiate Browser
+2022-09-28 22:41:02 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-28 22:41:02 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-28 22:41:02 INFO  PageBase:90 -  Os Type :windows
+2022-09-28 22:41:02 INFO  TestBase:33 - Browser Initiated
+2022-09-28 22:41:02 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-28 22:41:11 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-28 22:41:11 INFO  TestBase:51 - Closing Browser
+2022-09-28 22:41:14 INFO  TestBase:53 - Browser Closed
+2022-09-28 22:41:14 INFO  TestBase:63 - Stop Testcase
+2022-09-28 22:47:36 INFO  TestBase:27 - Initiate Browser
+2022-09-28 22:47:54 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-28 22:47:54 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-28 22:47:54 INFO  PageBase:90 -  Os Type :windows
+2022-09-28 22:47:54 INFO  TestBase:33 - Browser Initiated
+2022-09-28 22:47:54 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-28 22:48:03 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-28 22:48:03 INFO  TestBase:51 - Closing Browser
+2022-09-28 22:48:05 INFO  TestBase:53 - Browser Closed
+2022-09-28 22:48:05 INFO  TestBase:63 - Stop Testcase
+2022-09-28 22:54:39 INFO  TestBase:27 - Initiate Browser
+2022-09-28 22:55:01 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-28 22:55:01 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-28 22:55:01 INFO  PageBase:90 -  Os Type :windows
+2022-09-28 22:55:01 INFO  TestBase:33 - Browser Initiated
+2022-09-28 22:55:01 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-28 22:55:10 INFO  TestBase:27 - Initiate Browser
+2022-09-28 22:55:29 INFO  PageBase:88 -  WebsiteURL:https://opensource-demo.orangehrmlive.com/
+2022-09-28 22:55:29 INFO  PageBase:89 -  Chrome Type :chrome
+2022-09-28 22:55:29 INFO  PageBase:90 -  Os Type :windows
+2022-09-28 22:55:29 INFO  TestBase:33 - Browser Initiated
+2022-09-28 22:55:29 INFO  TestBase:43 - Test name: VerifyloginTest
+2022-09-28 22:55:40 INFO  TestBase:59 - Executed test case name:VerifyloginTest Execution Results : [TestResult name=VerifyloginTest status=FAILURE method=LoginTest.VerifyloginTest()[pri:0, instance:com.orangehrm.test.LoginTest@39fb3ab6] output={null}]
+2022-09-28 22:55:40 INFO  TestBase:51 - Closing Browser
+2022-09-28 22:55:42 INFO  TestBase:53 - Browser Closed
+2022-09-28 22:55:42 INFO  TestBase:63 - Stop Testcase

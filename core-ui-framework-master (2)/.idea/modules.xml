@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core-ui-framework-master/com.qa.core.ui.framework.iml" filepath="$PROJECT_DIR$/core-ui-framework-master/com.qa.core.ui.framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/core-ui-framework-master (2).iml" filepath="$PROJECT_DIR$/.idea/core-ui-framework-master (2).iml" />
+    </modules>
+  </component>
+</project>
